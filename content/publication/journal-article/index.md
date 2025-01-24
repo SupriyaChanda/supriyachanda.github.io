@@ -1,10 +1,11 @@
 ---
-title: "FEEL: FEderated LEarning Framework for ELderly Healthcare using Edge-IoMT"
+title: "Towards Safer Online Spaces: Deep Learning for Hate Speech Detection in Code-Mixed Social Media Conversations"
 authors:
 - admin
-- Soumya K. Ghosh
+- Abhishek Dhaka
+- Sukomal Pal
 date: "2023-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1145/3630744.3663610"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-01T00:00:00Z"
@@ -13,13 +14,13 @@ publishDate: "2023-10-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Websci Companion '24: Companion Publication of the 16th ACM Web Science Conference*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the midst of the widespread adoption of technology, particularly among younger generations, the increasing prevalence of hate speech online has become a pressing global concern. This research paper aims to address this urgent issue by conducting a thorough investigation into hate speech detection in Hindi-English code-mixed data. Existing research has largely approached hate speech recognition as a text classification problem, focusing on predicting the class of a message based solely on its textual content. Our task, however, delves into the classification of hateful content disseminated through tweets, comments, and replies on Twitter, taking into account the contextual intricacies inherent in social media communication. In this context, contextual nuances play a crucial role in understanding communication dynamics. By employing state-of-the-art deep learning techniques tailored to the unique linguistic characteristics of each language, this research makes a significant contribution to the development of robust and culturally sensitive hate speech detection systems. Such systems are essential for creating safer online environments and promoting cross-cultural understanding.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,8 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3630744.3663610
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
