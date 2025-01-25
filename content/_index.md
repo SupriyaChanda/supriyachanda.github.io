@@ -186,10 +186,6 @@ sections:
     content:
       title: Skills
       items:
-        - name: Mobility analysis
-          #description: 100%
-          icon: car
-          icon_pack: fas
         - name: Natural lanuage processing
           #description: 100%
           icon: list-check
@@ -198,15 +194,7 @@ sections:
           #description: 10%
           icon: magnifying-glass-chart
           icon_pack: fas
-        - name: Cloud computing
-          #description: 100%
-          icon: cloud
-          icon_pack: fas
-        - name: Data mining
-          #description: 100%
-          icon: magnifying-glass-chart
-          icon_pack: fas
-        - name: Python, R, C, PostGreSQL, QGIS, TensorFlow
+        - name: Python, C, PyTorch
           #description: 10%
           icon: list-check
           icon_pack: fas
