@@ -1,13 +1,12 @@
 ---
-title: 'Clock Against Chaos: Dynamic Assessment and Temporal Intervention in Reducing Misinformation Propagation'
+title: 'The Effect of Stopword Removal on Information Retrieval for Code-Mixed Data Obtained Via Social Media'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Prasenjit Mitra
-  - Preslav Nakov
+  - Sukomal Pal
 
 # Author notes (optional)
 
@@ -22,13 +21,14 @@ publishDate: '2023-05-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *18th International AAAI Conference on Web and Social Media*
-publication_short: In *AAAI ICWSM 2024*
+publication: In *SN Computer Science*
+publication_short: In *SNCS*
 
-abstract: As social networks become the primary sources of information, the rise of misinformation poses a significant threat to the information ecosystem. 
+abstract: Stopwords often present themselves littered throughout the documents, their presence in sentences has the least significant semantic impact and these terms represent an impressive collection of archives without any semantic value. Thus, stopwords should be eliminated from any document for improved language description. In this paper, we have explored and evaluated the effect of stopwords on the performance of information retrieval in code-mixed social media data in Indian languages such as Bengali–English. A considerable amount of research has been performed in the areas of sentiment analysis, language identification, and language generation for code-mixed languages. However, no such work has been done in the field of removal of stopwords from a code-mixed document. That is the motivation behind this work. In this work, we have devoted our attention to comparing the impact of corpus-based stopword removal over non-corpus-based stopword removal on Information retrieval for code-mixed data. How to find the best stopword list for each constituent language of a code mixed language? It was observed that corpus-based stopword removal generally improved Mean Average Precision (MAP) values significantly compared to non-corpus-based stopword removal by 16%. For both languages, different threshold values were tuned together based on the TF-IDF score, and it gave the optimal list for stopwords. 
+
 # Summary. An optional shortened abstract.
 summary: Social networks' role as primary information sources has led to a rise in misinformation, threatening the information ecosystem. This study introduces a system that assigns misinformation scores to tweets in real-time using a mix of Temporal Graph Network (TGN) and Recurrent Neural Networks (RNNs) to track how misinformation spreads. This approach uses active learning, a dual model system, a temporal embargo based on belief scores, and a retraining method, showing significant accuracy in identifying and reducing misinformation propagation across five datasets.
 
@@ -42,8 +42,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1B3ObfDbR1Jjmhj1U7TdgDzV4OFxsHPKS/view'
-url_code: 'https://drive.google.com/drive/u/3/folders/1Qh4IP-8KYrKW6AJQuIvlwHoyu4U2ON2d'
+#url_pdf: 'https://drive.google.com/file/d/1B3ObfDbR1Jjmhj1U7TdgDzV4OFxsHPKS/view'
+#url_code: 'https://drive.google.com/drive/u/3/folders/1Qh4IP-8KYrKW6AJQuIvlwHoyu4U2ON2d'
 
 
 # Featured image
@@ -59,7 +59,7 @@ url_code: 'https://drive.google.com/drive/u/3/folders/1Qh4IP-8KYrKW6AJQuIvlwHoyu
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - misinformation
+  - cmir
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
