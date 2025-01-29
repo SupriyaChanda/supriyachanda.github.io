@@ -59,12 +59,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Misinformation
-          tag: misinformation
-        - name: Mobility
-          tag: Mobility
-        - name: Night time light
-          tag: Night time light
+        - name: CMLID
+          tag: CMLID
+        - name: CMSA
+          tag: CMSA
+        - name: CM Hate Speech
+          tag: CM Hate Speech
+        - name: CMIR
+          tag: CMIR
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -84,8 +86,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD research scholar
-          company: Indian Institute of Technology (BHU)
+        - title: Research Scholar (Ph.D.)
+          company: Indian Institute of Technology (BHU), Varanasi
           company_url: 'https://www.iitbhu.ac.in/'
           company_logo: iitbhu
           location: Varanasi, India
@@ -93,38 +95,38 @@ sections:
           date_end: '2024-10-07'
           description: |2-
               Research projects include:
+
+              * One
+              * Two
+              * Three
               
-        - title: MS research scholar
-          company: Indian Institute of Technology Kharagpur (IIT Kharagpur)
-          company_url: 'https://www.iitkgp.ac.in/'
-          company_logo: iitkgp
-          location: Kharagpur, India
-          date_start: '2015-08-01'
-          date_end: '2016-12-30'
+        - title: M.Tech Research Scholar
+          company: University of Hyderabad
+          company_url: 'https://uohyd.ac.in/'
+          company_logo: uoh
+          location: Hyderabad, India
+          date_start: '2016-07-01'
+          date_end: '2018-05-30'
           description: |2-
               Research projects include:
 
-              * Decision Support System for transportation of hazardous materials
-
+              * One
+              * Two
+              * Three
               
-
-              * Designed a SDI (Spatial Data Infrastructure) to assist in routing decisions regarding transportation of hazardous materials
-              
-        - title: Undergraduate research project
-          company: Indian Institute of Engineering Science and Technology, Shibpur (IIEST)
-          company_url: 'https://www.iiests.ac.in/'
-          company_logo: iiest
-          location: Shibpur, India
+        - title: M.Sc project
+          company: Pondicherry University
+          company_url: 'https://www.pondiuni.edu.in/'
+          company_logo: pu
+          location: Puducherry, India
           date_start: '2014-08-01'
-          date_end: '2015-12-30'
+          date_end: '2016-06-30'
           description: |2-
               Research projects include:
 
-              * Efficient data analysis and classification in Chemoinformatics
-
-              
-
-              * Developed chemical graph mining algorithm which extends Ugi’s scheme and capable to classify a wide variety of chemical reactions
+              * One
+              * Two
+              * Three
 
     design:
       columns: '2'

@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Researcher (2018-2024)
+role: Research Scholar (2018-2024)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Indian Institue of Technology (BHU)
+  - name: Indian Institue of Technology (BHU), Varanasi
     url: https://iitbhu.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,10 +26,11 @@ bio: Supriya Chanda (pronounced as Supriyo), completed his Ph.D in the Departmen
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
   - Information Retrieval
   - Natural Language Processing
   - Cryptography
+  - Machine Learning
+  - Text Processing on Code-Mixed Data
 
 # Education to show in About widget
 education:
