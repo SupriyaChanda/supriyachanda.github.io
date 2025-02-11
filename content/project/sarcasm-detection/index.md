@@ -1,12 +1,11 @@
 ---
-title: Code-Mixed Information Retrieval
+title: Night-time light data analytics
 summary: 
 tags:
-  - Information Retrieval
-  - Code-Mixing
-  - Bengali-English
+  - Night time light
+  - Urban sprwal pattern
   
-date: '2025-02-09T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -33,7 +32,5 @@ url_video: ''
 #slides: misinformation
 ---
 
-Code-mixing, the mixing of lexical items and grammatical features from multiple languages in a single sentence, is prevalent worldwide. With the rise of online social networking, many users converse in their native languages using foreign scripts. In India, people often use Roman script on social media. This is especially true for migrants who form online communities to share information and experiences relevant to their need.
-For example, Bengali speakers from West Bengal who migrate to cities like Delhi or Bangalore create groups like "Bengali in Delhi" on platforms such as Facebook and WhatsApp. They seek advice on various local issues, which became crucial during the COVID-19 pandemic for sharing experiences and navigating frequently changing government guidelines.
-These conversations typically involve code-mixed text, with users employing informal, colloquial language often transliterated into Roman script. This lack of standardization makes it difficult to identify and highlight relevant answers within these discussions, particularly for those seeking similar information later.
-Our task aims to develop a mechanism to pinpoint the most relevant answers from these code-mixed conversations. The focus is on Roman transliterated Bengali mixed with English language.
+Night-time light (NTL) data has emerged as a valuable source of information for analyzing human activity patterns from the sky. NTL helps in understanding urbanization patterns, economic development, impact of disasters and finding hotspots of excessive night-light utilization. 
+%The availability of high-resolution satellite imagery has enabled the study of NTL data at an unprecedented scale. However, the volume, complexity, and temporal dynamics of this data present challenges for visualization and analytics. To address these challenges, we introduce NightVIEW, an interactive tool for NTL data visualization and analytics that offers a comprehensive and user-friendly platform for researchers and stakeholders to explore and analyze NTL data. The tool is powered by an efficient system architecture to easily export and analyse huge volumes of spatial data (NTL) and computing components including image segmentation, clustering and change pattern detection to find urban development and sprawl patterns. The system is also capable to identify the temporal trends of NTL at different geographical region and captures the semantics of cities by exploring artificial light use at night. Specifically, NightVIEW helps in answering questions such as: What demographic factors influence NTL data and to what extent? Can we detect the boundaries of a city, urban area, or metropolitan area? How does it differ from the political boundaries and why? Where are the differences with demographic data unusual? We envision our tool, NightVIEW, as a companion for researchers in developing  AI-based analytics as well as a guide for government stakeholders  who can leverage the computing capacity of our modules to design policies and regulations related to NTL usage.
