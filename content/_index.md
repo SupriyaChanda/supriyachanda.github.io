@@ -60,13 +60,15 @@ sections:
         - name: All
           tag: '*'
         - name: CMLID
-          tag: CMLID
+          tag: cmlid
         - name: CMSA
-          tag: CMSA
+          tag: cmsa
         - name: CM Hate Speech
-          tag: CM Hate Speech
+          tag: cm-hate
         - name: CMIR
-          tag: CMIR
+          tag: cmir
+        - name: Sarcasm Detection
+          tag: sarcasm-detection
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
