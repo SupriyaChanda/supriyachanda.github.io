@@ -145,29 +145,29 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: ''
-          date_start: '2023-11-13'
-          description: 'In collaboration with ACM SIGSPATIAL, we are pleased to announce the call for papers for [GeoWildLife 2023](https://geowildlife2023.ist.psu.edu/), a workshop dedicated to bridging the gap between AI-enabled spatio-temporal data analytics and wildlife conservation.'
-          organization: SigSpatial
-          organization_url: https://sigspatial2023.sigspatial.org/
-          title: GeoWildLife 2023!
-          url: 'https://geowildlife2023.ist.psu.edu/'
-        - certificate_url: 
-          date_end: ''
-          date_start: '2023-11-13'
-          description: 'In collaboration with ACM SIGSPATIAL, we are pleased to announce the call for papers for [GeoSocial 2023](http://www.geosocial.iitkgp.ac.in/). The workshop aims to bring together a diverse community of researchers, practitioners, and students from various disciplines to exchange ideas, share knowledge, and foster collaboration in the burgeoning field of geocomputational and socio-economic data analysis.'
-          organization: SigSpatial
-          organization_url: https://sigspatial2023.sigspatial.org/
-          title: GeoSocial 2023!
-          url: 'http://www.geosocial.iitkgp.ac.in/'
-        - certificate_url: 
-          date_end: ''
-          date_start: '2023-10-22'
-          description: 'In collaboration with CIKM 2023, we are pleased to announce the call for papers for [InfoWild 2023](https://wildinfo.ist.psu.edu/), a workshop dedicated to explore and enhance AI’s role in big data analysis for wildlife conservation, in brief, Nature Through the Lens of AI . It seeks to address crucial challenges related to data heterogeneity, scale integration, data privacy, mitigating biases, and decision-making under uncertainty. This workshop is centred around leveraging AI’s prowess in deciphering complex spatio-temporal data patterns for wildlife conservation, thereby contributing significantly to the broader canvas of AI for social good.'
-          organization: CIKM
-          organization_url: https://uobevents.eventsair.com/cikm2023/
-          title: InfoWild 2023!
-          url: 'https://wildinfo.ist.psu.edu/'
+          date_end: '2024-06-12'
+          date_start: '2024-12-15'
+          description: 'In collaboration with FIRE 2024, we are pleased to announce the call for participation for [CMIR-2024](https://cmir-iitbhu.github.io/cmir/), a shared task dedicated to information retrieval from code-mixed social media data.'
+          organization: FIRE 2024
+          organization_url: https://fire.irsi.org.in/fire/2025/home/
+          title: CMIR-2024
+          url: 'https://cmir-iitbhu.github.io/cmir/'
+        #- certificate_url: 
+        #  date_end: ''
+        #  date_start: '2023-11-13'
+        #  description: 'In collaboration with ACM SIGSPATIAL, we are pleased to announce the call for papers for [GeoSocial 2023](http://www.geosocial.iitkgp.ac.in/). The workshop aims to bring together a diverse community of researchers, practitioners, and students from various disciplines to exchange ideas, share knowledge, and foster collaboration in the burgeoning field of geocomputational and socio-economic data analysis.'
+        #  organization: SigSpatial
+        #  organization_url: https://sigspatial2023.sigspatial.org/
+        #  title: GeoSocial 2023!
+        #  url: 'http://www.geosocial.iitkgp.ac.in/'
+        #- certificate_url: 
+        #  date_end: ''
+        #  date_start: '2023-10-22'
+        #  description: 'In collaboration with CIKM 2023, we are pleased to announce the call for papers for [InfoWild 2023](https://wildinfo.ist.psu.edu/), a workshop dedicated to explore and enhance AI’s role in big data analysis for wildlife conservation, in brief, Nature Through the Lens of AI . It seeks to address crucial challenges related to data heterogeneity, scale integration, data privacy, mitigating biases, and decision-making under uncertainty. This workshop is centred around leveraging AI’s prowess in deciphering complex spatio-temporal data patterns for wildlife conservation, thereby contributing significantly to the broader canvas of AI for social good.'
+        #  organization: CIKM
+        #  organization_url: https://uobevents.eventsair.com/cikm2023/
+        #  title: InfoWild 2023!
+        #  url: 'https://wildinfo.ist.psu.edu/'
     design:
       columns: '2'
 
