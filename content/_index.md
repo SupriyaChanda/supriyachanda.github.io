@@ -105,7 +105,7 @@ sections:
         - title: M.Tech Research Scholar
           company: University of Hyderabad
           company_url: 'https://uohyd.ac.in/'
-          company_logo: uoh
+          company_logo: uoh.png
           location: Hyderabad, India
           date_start: '2016-07-01'
           date_end: '2018-05-30'
@@ -119,7 +119,7 @@ sections:
         - title: M.Sc project
           company: Pondicherry University
           company_url: 'https://www.pondiuni.edu.in/'
-          company_logo: pu
+          company_logo: pu.png
           location: Puducherry, India
           date_start: '2014-08-01'
           date_end: '2016-06-30'
