@@ -6,14 +6,15 @@ tags:
   - Code-Mixing
   - Bengali-English
   - cmir
+  - Social Media
   
-date: '2025-02-09T00:00:00Z'
+date: '2025-02-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo taken from internet
   focal_point: Smart
 
 links:

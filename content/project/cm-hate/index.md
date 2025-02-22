@@ -3,9 +3,12 @@ title: Hate Speech Identification in Code-Mixed Data
 summary: 
 tags:
   - Social media
+  - Code-Mixing
   - NLP
   - Hate Speech
   - cm-hate
+  - Hindi-English
+
 date: '2025-02-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

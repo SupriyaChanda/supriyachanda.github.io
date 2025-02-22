@@ -1,25 +1,30 @@
 ---
-title: Mobility data analytics
+title: Code-Mixed Sentiment Analysis
 summary: 
 tags:
-  - Mobility
-  - Cloud-based mobility framework
-  - Semantic movement behaviour
+  - Social media
+  - NLP
+  - Sentiment Analysis
+  - Code-Mixing
+  - cmsa
+  - Tamil-English
+  - Kannada-English
+  - Malayalam-English
   
-date: '2022-04-27T00:00:00Z'
+date: '2025-02-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo taken from internet
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/cstghosh
+    url: https://x.com/SUPLIFE24
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -33,4 +38,4 @@ url_video: ''
 #slides: misinformation
 ---
 
-Both analyzing mobility traces and understanding a user’s movement semantics from mobile sensor data are challenging issues in ubiquitous computing systems. With the pervasiveness of sensor technologies, wireless networks and GPS-equipped devices, a huge volume of location information is being accumulated. Several techniques have been proposed to analyze the mobility traces and extract informative knowledge for varied location-aware applications. However, all of these applications necessitate an effective mobility-analysis framework to capture the movement behavior of individuals in minimum delay. This project aims to develop a cloud-based mobility analytics framework to model peoples’ mobility behaviour in varied granular scale and extract usable knowledge to provision location-aware services.
+Sentiment analysis on code-mixed text is essential for understanding user opinions, particularly in regions where people frequently switch between languages in their conversations. Traditional sentiment analysis models face difficulty in handling such data due to the complexity introduced by the mixture of languages and the lack of large labeled datasets. This project aimed to develop a robust model for detecting and classifying sentiment (positive, negative, neutral) in code-mixed social media text. A dataset was collected from social media platforms like Facebook and Twitter, and preprocessing steps included tokenization, language identification, and normalization of code-mixed text. The hybrid model combined traditional machine learning algorithms like Support Vector Machines (SVM) with deep learning techniques like Bidirectional Long Short-Term Memory (BiLSTM). The project also leveraged multilingual embeddings to capture the semantics of the words in different languages. One of the key challenges was handling context-sensitive elements like sarcasm and slang. The results showed improved accuracy by fine-tuning transformer models like BERT and multilingual BERT, significantly enhancing the performance of sentiment classification on code-mixed data.
