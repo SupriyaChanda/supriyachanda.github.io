@@ -4,7 +4,7 @@ title: LaTex Hands-on Workshop
 event: LaTex Hands-on Workshop
 event_url: 
 
-location: LT-3 Hall, IIT (BHU) Varanasi
+location: Kamdhenu Hall (DSFT Building), BHU, Varanasi
 
 
 summary: I present a demonstration of how to use LaTeX for academic writting. 
@@ -12,12 +12,12 @@ summary: I present a demonstration of how to use LaTeX for academic writting.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-19T14:00:00Z'
-date_end: '2025-01-19T18:00:00Z'
+date: '2025-02-07T14:00:00Z'
+date_end: '2025-02-07T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-08-01T00:00:00Z'
+publishDate: '2025-02-22T00:00:00Z'
 
 authors: [Supriya Chanda]
 tags:
