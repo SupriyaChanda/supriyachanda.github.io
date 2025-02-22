@@ -1,25 +1,25 @@
 ---
-title: Misinformation detection from social media
+title: Hate Speech Identification in Code-Mixed Data
 summary: 
 tags:
   - Social media
   - NLP
-  - Network structure
-  - misinformation
-date: '2022-04-27T00:00:00Z'
+  - Hate Speech
+  - cm-hate
+date: '2025-02-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo taken from internet
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/cstghosh
+    url: https://x.com/SUPLIFE24
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -33,7 +33,4 @@ url_video: ''
 #slides: misinformation
 ---
 
-Existing methods to detect and to grade misinformation, however, are met with significant challenges and limitations: (I) Static Evaluation: Existing
-models predominantly use static scoring systems, which prove inadequate due to their failure to adapt to the dynamic 
-nature of social networks. This lack of adaptability often results in delayed detection of misinformation. (II) Temporal Oversights: Current approaches typically do not account for temporal changes in the information context or the continuous influx of new data, leading to suboptimal detection and grading accuracy. (III) Immediate Classification: It may not always be possible or accurate, particularly in the face of
-uncertain or incomplete information. (IV) Scalability Concerns: The enormous scale of the data on social media and the high user activity levels pose significant computational efficiency and scalability challenges to existing methods.
+Hate speech identification in code-mixed text is a challenging but necessary task given the rise of harmful content on social media platforms. The goal of this project was to detect and classify hate speech in code-mixed social media conversations, which often involve multiple languages within a single text. To build an effective model, a dataset of code-mixed text was collected and manually annotated with labels indicating hate speech, offensive language, or neutral text. The primary challenge lay in the implicit nature of hate speech, where users often use metaphors or sarcasm to convey harmful messages across languages. The project utilized transformer-based models like BERT, XLM-RoBERTa, and MURIL to capture the deep semantics of these mixed-language texts. Special attention was given to handling code-switching patterns and the context in which the hate speech was expressed. The results showed that transformer-based models significantly outperformed traditional approaches in identifying hate speech in code-mixed data, especially when dealing with implicit language and sarcasm.
