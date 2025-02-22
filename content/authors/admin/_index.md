@@ -28,8 +28,9 @@ bio: Supriya Chanda (pronounced as Supriyo), completed his Ph.D in the Departmen
 interests:
   - Information Retrieval
   - Natural Language Processing
-  - Machine Learning
+  - Low-resource Language
   - Text Processing on Code-Mixed Data
+  - Large Language Model
 
 # Education to show in About widget
 education:
