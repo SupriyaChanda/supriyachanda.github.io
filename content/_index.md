@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-10-24
+date: 2025-02-23
 type: landing
 
 sections:
@@ -12,22 +12,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications 
-      text: |-
-        {{% callout note %}}
-        **See Full Publication**  
-        [**Google Scholar Link**](https://scholar.google.com/citations?user=wB9WetAAAAAJ&hl=en)
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -42,6 +27,23 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications 
+      text: |-
+        {{% callout note %}}
+        **See Full Publication** [**Google Scholar Link**](https://scholar.google.com/citations?user=wB9WetAAAAAJ&hl=en)
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '1'
+      view: card
+
   - block: portfolio
     id: projects
     content:
@@ -75,6 +77,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
   - block: experience
     id: experience
     content:
@@ -88,6 +91,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Teaching
+          company: Banaras Hindu University
+          company_url: 'https://www.bhu.ac.in/'
+          company_logo: bhu
+          location: Varanasi, India
+          date_start: '2023-06-01'
+          date_end: '2024-12-25'
+          description: |2-
+              Associated with teaching of B.Tech classes (Food Technology & Dairy Technology) in the Department of Dairy Science and Food Technology. The subjects are following:
+
+              * FT-124: Computer Programming and Data Structure
+              * DT-319: ICT in Dairy Industry
+              * BDT-116: Agricultural Informatics and Artificial Intelligence
+              * DT-118: Computer & Application Software Packages
+
         - title: Research Scholar (Ph.D.)
           company: Indian Institute of Technology (BHU), Varanasi
           company_url: 'https://www.iitbhu.ac.in/'
@@ -96,11 +114,23 @@ sections:
           date_start: '2018-07-18'
           date_end: '2024-10-07'
           description: |2-
-              Research projects include:
+              Serve as Teaching Assistant (TA) for the following Courses:
 
-              * One
-              * Two
-              * Three
+              * CSE-363 (UG) / CSE-541 (PG): Information Retrieval
+              * CSO-101 (UG): Computer Programming
+
+              In research, the broad area was text processing on Code-Mixed data. So, work on the following topics related to Code-Mixing:
+              
+              * Word-level Language Identification in Code-Mixed Data
+              * Sentiment Analysis on Dravidian Code-Mixed Data
+              * Identification of Conversational Hate-Speech in Code-Mixed Languages
+              * Code-Mixed Information Retrieval
+
+              Associated with mentoring UG students in their Exploratory Project:
+              
+              * Build a novel e-Learning technique through literature reading (Android / iOS Application)
+
+              Serve as Departmental Trainning and Placement Representive (TPR)
               
         - title: M.Tech Research Scholar
           company: University of Hyderabad
@@ -110,11 +140,14 @@ sections:
           date_start: '2016-07-01'
           date_end: '2018-05-30'
           description: |2-
-              Research projects include:
+              Serve as Teaching Assistant (TA) for the following Course:
 
-              * One
-              * Two
-              * Three
+              * Introduction of Algorithm
+
+              In research, the broad area was Cryptography. So, work on the following topic related to Homomorphic Encryption:
+              
+              * Faster and secure fingerprint authentication using NTRU, an application of homomorphic encryption
+
               
         - title: M.Sc project
           company: Pondicherry University
@@ -124,14 +157,15 @@ sections:
           date_start: '2014-08-01'
           date_end: '2016-06-30'
           description: |2-
-              Research projects include:
+              As a M.Sc project, built a web based application of Geocoding Spatial Query in Real Estate using Google map:
 
-              * One
-              * Two
-              * Three
+              * It was a real estate portal for buyers and sellers who want to invest in the real estate business
+              * The system had a database application that facilitates all the users (only two types of users are there) of the system to interact with them and to view the information as per user requirements
+              * Used Google API to find the nearest location based on a particular location point (latitude and longitude value)
 
     design:
       columns: '2'
+
   - block: accomplishments
     id: posts
     content:
@@ -151,7 +185,7 @@ sections:
           date_start: '2024-12-15'
           description: 'In collaboration with FIRE 2024, we are pleased to announce the call for participation for [CMIR-2024](https://cmir-iitbhu.github.io/cmir/), a shared task dedicated to information retrieval from code-mixed social media data.'
           organization: FIRE 2024
-          organization_url: https://fire.irsi.org.in/fire/2025/home/
+          organization_url: https://fire.irsi.org.in/fire/2024/home/
           title: CMIR-2024
           url: 'https://cmir-iitbhu.github.io/cmir/'
         #- certificate_url: 
@@ -173,8 +207,6 @@ sections:
     design:
       columns: '2'
 
-  
-  
   - block: collection
     id: talks
     content:
@@ -220,7 +252,7 @@ sections:
         postcode: '221005'
         country: India
         country_code: IND
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        directions: Enter CSE, IIT (BHU) building and turn right. After 20 meters take the stairs to TF-01 on 3rd floor
       
       contact_links:
         - icon: twitter
