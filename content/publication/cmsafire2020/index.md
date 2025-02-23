@@ -4,7 +4,7 @@ authors:
 - admin
 - Sukomal Pal
 date: "2020-09-01T00:00:00Z"
-doi: "https://ceur-ws.org/Vol-2826/T4-9.pdf"
+doi: "https://doi.org/10.1007/s42979-023-01942-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-01T00:00:00Z"
@@ -56,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - cmir
+  - cmsa
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
