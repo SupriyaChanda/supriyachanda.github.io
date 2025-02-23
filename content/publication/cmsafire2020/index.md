@@ -4,7 +4,7 @@ authors:
 - admin
 - Sukomal Pal
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "https://ceur-ws.org/Vol-2826/T4-9.pdf"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-01T00:00:00Z"
