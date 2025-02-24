@@ -20,12 +20,10 @@ publication_types: ["3"]
 publication: "*Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020)*"
 publication_short: "W-NUT 2020"
 
-abstract: This paper reports our submission to the shared Task 2 
-
-#Identification of informative COVID-19 English tweets at W-NUT 2020. We attempted a few techniques, and we briefly explain here two models that showed promising results in tweet classification tasks: DistilBERT and FastText. DistilBERT achieves a F1 score of 0.7508 on the test set, which is the best of our submissions.
+abstract: This paper reports our submission to the shared Task 2 Identification of informative COVID-19 English tweets at W-NUT 2020. We attempted a few techniques, and we briefly explain here two models that showed promising results in tweet classification tasks: DistilBERT and FastText. DistilBERT achieves a F1 score of 0.7508 on the test set, which is the best of our submissions.
 
 # Summary. An optional shortened abstract.
-summary: This paper reports our submission to the shared Task 2: Identification of informative COVID-19 English tweets at W-NUT 2020. We attempted a few techniques, and we briefly explain here two models that showed promising results in tweet classification tasks: DistilBERT and FastText. DistilBERT achieves a F1 score of 0.7508 on the test set, which is the best of our submissions.
+#summary: This paper reports our submission to the shared Task 2: Identification of informative COVID-19 English tweets at W-NUT 2020. We attempted a few techniques, and we briefly explain here two models that showed promising results in tweet classification tasks: DistilBERT and FastText. DistilBERT achieves a F1 score of 0.7508 on the test set, which is the best of our submissions.
 
 tags:
   - covid-19
