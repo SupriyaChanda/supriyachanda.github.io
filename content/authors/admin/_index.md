@@ -85,8 +85,10 @@ email: 'suplife24@gmail.com'
 highlight_name: true
 ---
 Dr. Supriya Chanda (pronounced Supriyo) completed his Ph.D. in Computer Science and Engineering from IIT (BHU), Varanasi, where he conducted his research under the esteemed guidance of Dr. Sukomal Pal at the Information Retrieval Lab. His research expertise lies in Information Retrieval (IR), Natural Language Processing (NLP), and Text Processing on Code-Mixed Data, with a particular focus on low-resource languages and Large Language Models (LLMs).
+{style="text-align: justify;"}
 
 Dr. Chanda’s work has a strong emphasis on Information Retrieval for Indian languages in code-mixed settings, making significant contributions to this underexplored area. He is also deeply invested in applying cutting-edge machine learning and deep learning techniques to socially impactful tasks such as hate speech detection, sarcasm detection, and sentiment analysis on multilingual social media data.
+{style="text-align: justify;"}
 
 Beyond his technical expertise, Dr. Chanda is passionate about application-oriented research, particularly in the intersection of NLP and IR, aiming to address real-world challenges. His scholarly contributions have been published in top-tier, peer-reviewed journals and presented at leading international conference. In addition to his research publications, he has co-authored two book chapters, further cementing his place as an influential voice in the field.
 {style="text-align: justify;"}
