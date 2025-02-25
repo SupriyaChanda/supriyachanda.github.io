@@ -56,5 +56,5 @@ projects:
 ---
 
 #{{% callout note %}}
-#**See our demo** [here](https://ntl.l3s.uni-hannover.de/)
+#**See our demo** [here]()
 #{{% /callout %}}
