@@ -27,10 +27,10 @@ tags:
   - thesis writing
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #image:
-  caption: 'Image credit: [**Internet**](https://images.app.goo.gl/FJmFr4drs5QiKASv8)'
+  #caption: 'Image credit: [**Internet**](https://images.app.goo.gl/FJmFr4drs5QiKASv8)'
   #focal_point: Right
 
 
